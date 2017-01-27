@@ -1,0 +1,15 @@
+package com.psl.beans;
+
+public class Employee {
+	
+
+	private int empId;
+	private String name;
+	private float salary;
+	private Address address;
+	public Employee(){
+		
+	}
+
+	
+}

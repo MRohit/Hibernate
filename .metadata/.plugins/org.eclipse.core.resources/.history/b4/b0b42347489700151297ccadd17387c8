@@ -1,0 +1,5 @@
+package com.psl.beans;
+
+public class TwoWheeler extends Vehicle {
+	private String variant;
+}

@@ -1,0 +1,17 @@
+package com.psl.dao;
+
+import com.psl.beans.Employee;
+import com.psl.beans.Product;
+
+public class ProductDAO {
+void saveProduct(Product product);
+	
+	//Read
+	Employee getProductById(int empId);
+	
+	//Update
+	void updateProduct(Employee emp);
+	
+	//Delete
+	void deleteProduct(Employee emp);
+}

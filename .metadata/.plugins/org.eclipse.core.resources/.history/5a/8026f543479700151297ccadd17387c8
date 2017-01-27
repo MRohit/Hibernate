@@ -1,0 +1,11 @@
+package com.psl.beans;
+
+import java.util.List;
+
+public class User {
+	private int id;
+	private String name;
+	private List<String> address;
+	private Vehicle vehicle;
+	
+}

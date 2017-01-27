@@ -1,0 +1,17 @@
+import org.hibernate.SessionFactory;
+
+import com.psl.beans.*;
+import com.psl.utility.HibernateUtility;
+
+
+public class Tester {
+	Account act=new Account(101,1000.23);
+	Savings sa=new Savings(102,12321.3);
+	Current ca=new Current(103,213.323);
+	
+	SessionFactory session=HibernateUtility.getSessionFactory();
+	session.save(act);
+	session.save(sa);
+	session.save(ca);
+	session.getTransaction().commit();
+}

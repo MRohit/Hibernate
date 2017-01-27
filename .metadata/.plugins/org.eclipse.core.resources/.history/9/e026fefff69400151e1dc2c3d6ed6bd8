@@ -1,0 +1,54 @@
+package com.psl.client;
+
+import java.util.*;
+
+import com.psl.beans.*;
+import com.psl.dao.EmployeeDAO;
+import com.psl.dao.EmployeeDAOImpl;
+import com.psl.dao.ProductDAO;
+import com.psl.dao.ProductDAOImpl;
+//bag:Collection interface and stores instance of arraylist
+//IdBag:Indexed based,with 1 field extra called as key
+//Primitive array:
+/*
+ * All collections as lazy loaded i.e on demand.
+ * Never override toString()
+ * Eager loaded are preloaded. e.g. primitive array
+ */
+public class Tester {
+
+	public static void main(String[] args) {
+		Employee emp=new Employee(101,"Rohit",450000);
+		
+		EmployeeDAO dao=new EmployeeDAOImpl();
+		ProductDAO productDAO=new ProductDAOImpl();
+		
+		Product product=new Product(1232,"Guitar",6000);
+		List<String> features=new ArrayList<String>();
+		features.add("water resistant");
+		features.add("low");
+		features.add("cool");
+		product.setFeatures(features);
+		
+		
+		List<String> features2=new ArrayList<String>();
+		features2.add("low");
+		features2.add("cool");
+		Product product2=new Product();
+		product2.setSrNo(102);
+		product2.setFeatures(features2);
+		//dao.saveEmployee(emp);
+		productDAO.saveProduct(product);
+		productDAO.saveProduct(product2);
+		
+		product=new Product(1232,"Piano",7000);
+		productDAO.updateProduct(product);
+		
+		//productDAO.deleteProduct(product);
+		product=productDAO.getProductById(1232);
+		System.out.println(product.getFeatures());
+		
+		
+		//productDAO.deleteProduct(product2);
+	}
+}

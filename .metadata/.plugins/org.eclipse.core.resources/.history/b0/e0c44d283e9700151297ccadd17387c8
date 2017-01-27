@@ -1,0 +1,9 @@
+import com.psl.beans.Account;
+import com.psl.beans.*;
+
+
+public class Tester {
+	Account act=new Account(101,1000.23);
+	Savings sa=new Savings(102,12321.3);
+	Current ca=new Current(103,213.323);
+}

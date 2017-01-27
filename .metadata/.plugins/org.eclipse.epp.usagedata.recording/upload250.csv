@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.version,sysinfo,,,"1.6.0_24",1449027319312
+java.vm.info,sysinfo,,,"mixed mode, sharing",1449027319312
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1449027319312
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1449027319312
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1449027319312
+java.vm.specification.version,sysinfo,,,"1.0",1449027319312
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1449027319312
+java.vm.version,sysinfo,,,"19.1-b02",1449027319312
+started,bundle,org.hibernate.eclipse.jdt.ui,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse.jdt.ui",1449027319725
+started,bundle,org.hibernate.eclipse,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse",1449027320213
+started,bundle,org.hibernate.eclipse.console,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse.console",1449027320315
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1449027320366
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1449027320477
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1449027320565
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1449027320756
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1449027320790
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449033060636
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449033229244
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449033235376
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449033244914
+started,bundle,org.eclipse.jpt.core,2.2.0.v200906070220,"org.eclipse.jpt.core",1449033245411
+started,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1449033245440
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1449033248716
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1449033252380
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1449033252381

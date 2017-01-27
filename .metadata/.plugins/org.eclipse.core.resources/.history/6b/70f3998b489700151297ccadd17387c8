@@ -1,0 +1,23 @@
+package com.psl.beans;
+
+public class FourWheeler extends Vehicle {
+	public FourWheeler() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public FourWheeler(String color) {
+		super();
+		this.color = color;
+	}
+
+	private String color;
+
+	public String getColor() {
+		return color;
+	}
+
+	public void setColor(String color) {
+		this.color = color;
+	}
+}

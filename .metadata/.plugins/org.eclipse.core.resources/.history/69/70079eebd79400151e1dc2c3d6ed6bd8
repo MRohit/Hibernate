@@ -1,0 +1,10 @@
+package com.psl.utility;
+
+import org.hibernate.SessionFactory;
+
+public class HibernateUtility {
+	static SessionFactory sessionFactory=null;
+	static SessionFactory getSessionFactory(){
+		
+	}
+}

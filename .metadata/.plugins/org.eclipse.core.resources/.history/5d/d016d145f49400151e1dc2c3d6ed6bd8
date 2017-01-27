@@ -1,0 +1,58 @@
+package com.psl.beans;
+
+import java.util.List;
+
+public class Product {
+	public Product(int srNo, String productName, float price) {
+		super();
+		this.srNo = srNo;
+		this.productName = productName;
+		this.price = price;
+	}
+
+	Integer srNo;
+	String productName;
+	Float price;
+	private List<String> features;
+	public Product(){
+		
+	}
+
+	public Integer getSrNo() {
+		return srNo;
+	}
+
+	public void setSrNo(Integer srNo) {
+		this.srNo = srNo;
+	}
+
+	public String getProductName() {
+		return productName;
+	}
+
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+
+	public Float getPrice() {
+		return price;
+	}
+
+	public void setPrice(Float price) {
+		this.price = price;
+	}
+
+	@Override
+	public String toString() {
+		return "Product [price=" + price + ", productName=" + productName
+				+ ", srNo=" + srNo + "]";
+	}
+
+	public String[] getFeatures() {
+		return features;
+	}
+
+	public void setFeatures(String[] features) {
+		this.features = features;
+	}
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 27, 2015 2:52:03 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Employee" table="EMPLOYEE_DETAILS">
+    	<id name="empId" type="integer">
+    	<generator class="hilo"></generator>
+    	</id>
+    	<property name="name" type="string"></property>
+    	<property name="salary" type="float"></property>
+    	<component name="address" class="com.psl.beans.Address">
+    		<property name="streetName" type="string"></property>
+    		<property name="city" type="string"></property>
+    	</component>
+       
+    </class>
+</hibernate-mapping>

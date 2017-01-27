@@ -1,0 +1,38 @@
+package com.psl.dao;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.psl.beans.Employee;
+import com.psl.utility.HibernateUtility;
+
+public class EmployeeDAOImpl implements EmployeeDAO {
+
+	@Override
+	public void saveEmployee(Employee emp) {
+		SessionFactory sf=HibernateUtility.getSessionFactory();
+		
+		//create a new session
+		Session session=sf.openSession();
+		
+	}
+
+	@Override
+	public Employee getEmployeeByEmpId(int empId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void updateEmployee(Employee emp) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteEmployee(Employee emp) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

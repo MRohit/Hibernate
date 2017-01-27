@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 element(s) from project &apos;Problem of Inheritance_TPH(table per hierarchy)&apos;&#x0D;&#x0A;- Original project: &apos;Problem of Inheritance_TPH(table per hierarchy)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Current.hbm.xml&#x0D;&#x0A;     Savings.hbm.xml" description="Delete elements" element1="src/com/psl/beans/Current.hbm.xml" element2="src/com/psl/beans/Savings.hbm.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1448870921800" subPackages="false" version="1.0"/>
+</session>

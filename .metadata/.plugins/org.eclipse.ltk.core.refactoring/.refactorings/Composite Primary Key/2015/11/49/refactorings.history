@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 source folder(s) to &apos;Problem of Inheritance&apos;&#x0D;&#x0A;- Original project: &apos;Composite Primary Key&apos;&#x0D;&#x0A;- Destination element: &apos;Problem of Inheritance&apos;&#x0D;&#x0A;- Original element: &apos;Composite Primary Key/config&apos;" description="Copy source folder" destination="=Problem of Inheritance" element1="/config" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1448870223574" version="1.0"/>
+</session>

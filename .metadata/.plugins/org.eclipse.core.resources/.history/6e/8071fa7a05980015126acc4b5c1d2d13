@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 1, 2015 1:53:27 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Vehicle" table="VEHICLE">
+        <id name="vehicleId" type="int">
+            <column name="VEHICLEID" />
+            <generator class="assigned" />
+        </id>
+        <property name="make" type="java.lang.String">
+            <column name="MAKE" />
+        </property><!--
+        Inverse defines ownership if vehicle is owner the inverse = true
+        --><set name="users" table="user_vehicle" cascade="all">
+        	
+        </set>
+    </class>
+</hibernate-mapping>

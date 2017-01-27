@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 30, 2015 1:51:32 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Account" table="ACCOUNT">
+        <id name="accNo" type="java.lang.Integer">
+            
+            <generator class="assigned" />
+        </id>
+        <discriminator column="accountType" type="string">
+        	
+        </discriminator>
+        <property name="balance" type="java.lang.Double">
+           
+        </property>
+       <subclass name="com.psl.beans.Savings" discriminator-value="Saving Account"></subclass>
+    </class>
+</hibernate-mapping>

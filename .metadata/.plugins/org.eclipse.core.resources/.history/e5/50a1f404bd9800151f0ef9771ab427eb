@@ -1,0 +1,15 @@
+package com.psl.client;
+
+import org.hibernate.cfg.Configuration;
+
+public class CustAnnot {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Configuration cfg=new Configuration().configure().addAnnotatedClass(Customer.class);
+	}
+
+}

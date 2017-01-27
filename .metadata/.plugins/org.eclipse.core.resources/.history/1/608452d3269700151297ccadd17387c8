@@ -1,0 +1,6 @@
+package com.psl.beans;
+
+public class EmpPK {
+	int empId;
+	String name;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 1, 2015 10:34:30 AM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Vehicle" table="VEHICLE">
+        <id name="vehicleId" type="integer"></id>
+        <property name="make" type="string"></property>
+        
+        <joined-subclass name="com.psl.beans.TwoWheeler" table="two">
+       	<property name="variant" type="string"></property>
+       </joined-subclass> 	
+    <joined-subclass name="com.psl.beans.FourWheeler" table="four">
+       	<property name="color" type="string"></property>
+       </joined-subclass> 
+    </class>
+</hibernate-mapping>

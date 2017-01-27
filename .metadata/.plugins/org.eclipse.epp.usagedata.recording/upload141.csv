@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877871595
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877871609
+error,log,,,"Internal Error",1448877871616
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877871834
+error,log,,,"Internal Error",1448877871846
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877874078
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1448877877479
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877881760
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877885295
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877885373
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877888003
+error,log,,,"Internal Error",1448877888018
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877889133
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877890014
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877895036
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448877899224
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877900791
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877903166
+error,log,,,"Internal Error",1448877903178
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877905221
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877905601
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448877920644
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877929314
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448877936227
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877938571

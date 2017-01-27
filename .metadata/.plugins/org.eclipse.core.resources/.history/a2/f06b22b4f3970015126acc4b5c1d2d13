@@ -1,0 +1,66 @@
+package com.psl.client;
+
+import java.util.*;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+
+import com.psl.beans.*;
+import com.psl.utility.HibernateUtility;
+
+public class Client {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		
+		Chapters tw=new Chapters(1, "Birth");
+		Chapters fw=new Chapters(2, "Marriage");
+		Chapters fw2=new Chapters(3, "RIP");
+		Set<Chapters> vehicle=new HashSet<Chapters>();
+	/*	vehicle.add(tw);
+		vehicle.add(fw);
+		vehicle.add(fw2);*/
+		vehicle.add(v1);
+		Chapters tw2=new Chapters(4, "Circket");
+		Chapters fw22=new Chapters(5, "FootBall");
+		Chapters fw222=new Chapters(6, "Kho-Kho");
+		Set<Vehicle> vehicle2=new HashSet<Vehicle>();
+		/*vehicle.add(tw2);
+		vehicle.add(fw22);
+		vehicle.add(fw222);*/
+		vehicle2.add(v2);
+		
+		
+		User user1=new User(101,"TOM",vehicle);
+		User user2=new User(102,"TOM",vehicle2);
+		SessionFactory sf=HibernateUtility.getSessionFactory();
+		Session session=sf.openSession();
+		try{
+			session.beginTransaction();
+			//session.save(vehicle);
+			session.save(user1);
+			session.save(user2);
+			session.getTransaction().commit();
+		}catch(Exception e){
+			e.printStackTrace();
+			System.out.println("Error");
+		}
+		session.close();
+		/*try{
+		Session session1=sf.openSession();
+		session1.beginTransaction();
+		Integer i=new Integer(101);
+		User u=(User)session1.get(User.class, i);
+		System.out.println(u.getUserId());
+		System.out.println(u.getUserName());
+		System.out.println(u.getVehicle());
+		}catch(Exception e){
+			System.out.println("Error");
+		}*/
+	}
+
+}

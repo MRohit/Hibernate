@@ -1,0 +1,50 @@
+package com.psl.client;
+
+import java.util.*;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+
+import com.psl.beans.*;
+import com.psl.utility.HibernateUtility;
+
+public class Client {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Vehicle v1=new Vehicle(112,"Honda");
+		User user1=new User(101,"TOM");
+		Set<Vehicle> vehicleSet=new HashSet<Vehicle>();
+		vehicleSet.add(v1);
+		
+		user1.setVehicle(vehicleSet);
+	
+		SessionFactory sf=HibernateUtility.getSessionFactory();
+		Session session=sf.openSession();
+		try{
+			session.beginTransaction();
+			//session.save(vehicle);
+			session.save(user1);
+			//session.save(user2);
+			session.getTransaction().commit();
+		}catch(Exception e){
+			e.printStackTrace();
+			System.out.println("Error");
+		}
+		Integer i=new Integer(101);
+		User u=(User)session.get(User.class, i);
+		
+		
+		session.close();
+		System.out.println(u.getVehicle().size());
+		System.out.println(u.getUserId());
+		System.out.println(u.getUserName());
+		
+		
+	
+	}
+}

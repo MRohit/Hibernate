@@ -1,0 +1,31 @@
+package com.psl.beans;
+
+import java.util.List;
+
+public class Titanium extends User{
+	public Titanium(int id, String name, List<String> address, Vehicle vehicle,
+			String type) {
+		super(id, name, address, vehicle);
+		this.type = type;
+	}
+
+	public Titanium() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Titanium(int id, String name, List<String> address, Vehicle vehicle) {
+		super(id, name, address, vehicle);
+		// TODO Auto-generated constructor stub
+	}
+
+	private String type;
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 30, 2015 4:29:50 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Address" table="ADDRESS">
+        <id name="city" type="java.lang.String">
+            <column name="CITY" />
+            <generator class="assigned" />
+        </id>
+        <property name="add" type="java.lang.String">
+            <column name="ADD" />
+        </property>
+    </class>
+</hibernate-mapping>

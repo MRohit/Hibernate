@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 1, 2015 10:34:30 AM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.User" table="USER">
+        <id name="userId" type="integer"></id>
+        <property name="userName" type="string"></property>
+        <one-to-one name="vehicle" class="com.psl.beans.Vehicle" cascade="all"></one-to-one> 
+    </class>
+</hibernate-mapping>

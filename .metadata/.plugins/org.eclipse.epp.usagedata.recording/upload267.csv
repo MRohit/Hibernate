@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1449037107819
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449037108428
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1449037115624
+activated,editor,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449037115873
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1449037121351
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449037138590
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449037195331
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1449037209427
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037213062
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037219108
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449037219524
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449037219602
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1449037237320
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037237427
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037240092
+error,log,,,"Internal Error",1449037240107
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1449037270321
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449037270517
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449037273777
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037295994
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037302405
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037309457
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449037309560
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1449037313868
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449037320958

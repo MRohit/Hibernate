@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1448860549269
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1448860549272
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090527,"org.eclipse.ui.views.log",1448860549274
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1448860549274
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1448860549275
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1448860549276
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1448860549276
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1448860549277
+started,bundle,org.hibernate.eclipse,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse",1448860549277
+started,bundle,org.hibernate.eclipse.console,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse.console",1448860549304
+started,bundle,org.hibernate.eclipse.jdt.ui,3.3.1.v201006011046R-H111-GA,"org.hibernate.eclipse.jdt.ui",1448860549305
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator",1448860549325
+os,sysinfo,,,"win32",1448860549328
+arch,sysinfo,,,"x86",1448860549328
+ws,sysinfo,,,"win32",1448860549328
+locale,sysinfo,,,"en_US",1448860549328
+processors,sysinfo,,,"1",1448860549328
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1448860549328
+java.runtime.version,sysinfo,,,"1.6.0_24-b07",1448860549328
+java.specification.name,sysinfo,,,"Java Platform API Specification",1448860549328
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1448860549328
+java.specification.version,sysinfo,,,"1.6",1448860549328
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1448860549328
+java.version,sysinfo,,,"1.6.0_24",1448860549328
+java.vm.info,sysinfo,,,"mixed mode, sharing",1448860549328

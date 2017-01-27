@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.ide",1449027319298
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1449027319299
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1449027319300
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090527,"org.eclipse.ui.views.log",1449027319301
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1449027319302
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1449027319303
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1449027319304
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1449027319305
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1449027319306
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1449027319306
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1449027319306
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1449027319307
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1449027319308
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator",1449027319309
+os,sysinfo,,,"win32",1449027319312
+arch,sysinfo,,,"x86",1449027319312
+ws,sysinfo,,,"win32",1449027319312
+locale,sysinfo,,,"en_US",1449027319312
+processors,sysinfo,,,"1",1449027319312
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1449027319312
+java.runtime.version,sysinfo,,,"1.6.0_24-b07",1449027319312
+java.specification.name,sysinfo,,,"Java Platform API Specification",1449027319312
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1449027319312
+java.specification.version,sysinfo,,,"1.6",1449027319312
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1449027319312

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 1, 2015 11:52:10 AM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.Book" table="BOOK">
+        <id name="id" type="int">
+            <column name="ID" />
+            
+        </id>
+        <property name="name" type="java.lang.String">
+            
+        </property>
+     
+        <set name="chapter" table="chapters" cascade="all">
+        	<key column="id"></key>
+        	
+        	<one-to-many class="com.psl.beans.Chapters" <element column="pageNo" type="integer"></element>
+        	<element column="name" type="string"></element>/>
+        </set>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,27 @@
+package com.psl.beans;
+
+public class Employee {
+	
+
+	private float salary;
+	private Address address;
+	public Employee(){
+		
+	}
+		this.name = name;
+	}
+	public float getSalary() {
+		return salary;
+	}
+	public void setSalary(float salary) {
+		this.salary = salary;
+	}
+	public Address getAddress() {
+		return address;
+	}
+	public void setAddress(Address address) {
+		this.address = address;
+	}
+
+	
+}

@@ -1,0 +1,13 @@
+package com.psl.beans;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Book {
+	private int id;
+	private String name;
+	Set<Chapters> book=new HashSet<Chapters>();
+	
+	
+	
+}

@@ -1,0 +1,4 @@
+
+public class Tester {
+	Account act=new Account(101,1000)
+}

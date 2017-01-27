@@ -1,0 +1,29 @@
+import org.hibernate.SessionFactory;
+import org.hibernate.classic.Session;
+
+import com.psl.beans.*;
+import com.psl.utility.HibernateUtility;
+
+
+public class Tester {
+	public static void main(String[] args) {
+		Account act=new Account(101,1000.23);
+		Savings sa=new Savings(102,12321.3);
+		Current ca=new Current(103,213.323);
+		
+		SessionFactory sf=HibernateUtility.getSessionFactory();
+		Session session=sf.openSession();
+		try {
+			session.beginTransaction();
+			session.save(act);
+			session.save(sa);
+			session.save(ca);
+			session.getTransaction().commit();
+			System.out.println("Record Savedd");
+		}catch(Exception e){
+			System.out.println();
+			session.getTransaction().rollback();
+		}
+	}
+	
+}

@@ -1,0 +1,6 @@
+package com.psl.beans;
+
+public class Vehicle {
+	private int vehicleId;
+	private String make;
+}

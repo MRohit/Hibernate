@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448877689133
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877690100
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877699054
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877711065
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877712853
+error,log,,,"Internal Error",1448877712867
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877723127
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877723495
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877724966
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877735670
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877742454
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877743276
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877747336
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877747469
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877748730
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877753468
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877753591
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877758266
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877762768
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877764497
+error,log,,,"Internal Error",1448877764511
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877766486
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1448877771109
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1448877773725
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1448877774354

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947797527
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448947801208
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947801817
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448947804765
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448947808416
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947808993
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448947815482
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947835216
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448947843360
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947847868
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448947876931
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947882703
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947884902
+error,log,,,"Internal Error",1448947884918
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947887258
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947889551
+error,log,,,"Internal Error",1448947889567
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947894028
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947899832
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947899956
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947901345
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947904465
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947906337
+error,log,,,"Internal Error",1448947906352
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1448947912967

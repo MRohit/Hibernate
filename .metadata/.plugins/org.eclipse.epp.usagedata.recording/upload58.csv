@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1448622817718
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448622818966
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622825955
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1448622829886
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622831992
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448622837390
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448622840182
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448622841742
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448622847733
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622848091
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622850556
+error,log,,,"Internal Error",1448622850603
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448622852335
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622854644
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622856563
+error,log,,,"Internal Error",1448622856594
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622872709
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622874831
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448622876453
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622876531
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622878341
+error,log,,,"Internal Error",1448622878388
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448622878700
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622878793
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622879417

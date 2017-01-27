@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448616133601
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1448616135161
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448616135489
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448616135988
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448616138390
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448616140138
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448616149544
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448616154070
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616154180
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616156988
+error,log,,,"Internal Error",1448616157034
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448616158922
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616159016
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616162931
+error,log,,,"Internal Error",1448616162947
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448616185021
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448616185879
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448616200902
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616208592
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616214661
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616219154
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616749713
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1448616752474
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616755282
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448616762926

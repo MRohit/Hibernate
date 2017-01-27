@@ -1,0 +1,5 @@
+package com.psl.beans;
+
+public class Titanium extends User{
+	private String type;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 30, 2015 3:49:13 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.User" table="USER">
+        <id name="id" type="int">
+            
+        </id>
+        <property name="name" type="string">
+            
+        </property>
+        <list name="address" table="address_details">
+    		<key column="id"></key>
+    		<index column="position"></index>
+    		<element column="addre" type="com.psl.beans.User"></element>
+    	</list>
+   
+        <component name="vehicle" class="com.psl.beans.Vehicle">
+    		<property name="vname" type="string"></property>
+    		<property name="vehicleNo" type="string"></property>
+    	</component>
+    	<!--<union-subclass name="com.psl.beans.Platinum" table="platinum">
+       	<property name="validity" type="string"></property>
+       </union-subclass> 	
+    <union-subclass name="com.psl.beans.Titanium" table="titanium">
+       	<property name="type2" type="string"></property>
+       </union-subclass>
+    --></class>
+</hibernate-mapping>

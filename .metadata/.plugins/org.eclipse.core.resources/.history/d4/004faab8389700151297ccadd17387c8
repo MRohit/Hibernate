@@ -1,0 +1,5 @@
+package com.psl.beans;
+
+public class Savings extends Account{
+	private Integer interestRate;
+}

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959594197
+error,log,,,"Internal Error",1448959594197
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448959596225
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448959603348
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959604356
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1448959613560
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448959614512
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959614924
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959618063
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959664636
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959666267
+error,log,,,"Internal Error",1448959666281
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1448959685555
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1448959686310
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448959687604
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959688025
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959694264
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959696485
+error,log,,,"Internal Error",1448959696498
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448959697484
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959699242
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448959699438
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448959702925
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959704809
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448959710808

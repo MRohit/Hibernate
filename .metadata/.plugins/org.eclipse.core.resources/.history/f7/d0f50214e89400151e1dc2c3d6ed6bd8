@@ -1,0 +1,11 @@
+package com.psl.beans;
+
+public class Product {
+	int srNo;
+	String productName;
+	float price;
+	
+	public Product(){
+		
+	}
+}

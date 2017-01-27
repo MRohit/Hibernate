@@ -1,0 +1,12 @@
+package com.psl.client;
+
+import org.hibernate.Session;
+
+import com.psl.utility.HibernateUtility;
+
+public class HQLTester {
+	public static void main(String[] args) {
+		Session session=HibernateUtility.getSessionFactory().openSession();
+		session.createQuery("from User");
+	}
+}

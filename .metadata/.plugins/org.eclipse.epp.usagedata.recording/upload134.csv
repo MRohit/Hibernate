@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1448877313339
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877317559
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877320593
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877320611
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.create.getter.setter",1448877320651
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877321445
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877322360
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877325651
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877325736
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877325779
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877326639
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877330489
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877332252
+error,log,,,"Internal Error",1448877332266
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1448877334187
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877334857
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877335960
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877340325
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877340443
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877342339
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1448877345021
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448877346316
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1448877347683
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877349137
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448877350802

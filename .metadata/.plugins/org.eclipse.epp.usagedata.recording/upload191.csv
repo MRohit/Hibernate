@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448946880667
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448946886283
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448946886377
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448946890932
+error,log,,,"Internal Error",1448946890948
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448946894083
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448946907858
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448946918076
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448946921025
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448946936469
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448946973862
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448946999227
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448947001630
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1448947003096
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448947008135
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947008229
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947011376
+error,log,,,"Internal Error",1448947011393
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448947018324
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448947025819
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947084472
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947086155
+error,log,,,"Internal Error",1448947086171
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1448947089233
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448947093770

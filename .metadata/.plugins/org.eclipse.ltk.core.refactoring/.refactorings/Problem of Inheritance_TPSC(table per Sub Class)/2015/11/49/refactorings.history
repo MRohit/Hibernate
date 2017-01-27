@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 source folder(s) to &apos;Exercise&apos;&#x0D;&#x0A;- Original project: &apos;Problem of Inheritance_TPSC(table per Sub Class)&apos;&#x0D;&#x0A;- Destination element: &apos;Exercise&apos;&#x0D;&#x0A;- Original element: &apos;Problem of Inheritance_TPSC(table per Sub Class)/config&apos;" description="Copy source folder" destination="=Exercise" element1="/config" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1448876636378" version="1.0"/>
+</session>

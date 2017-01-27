@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Internal Error",1448622879464
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1448622882584
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622884019
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622885766
+error,log,,,"Internal Error",1448622885813
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622887576
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622889370
+error,log,,,"Internal Error",1448622889386
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1448622897343
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1448622897982
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622898903
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622899402
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448622907046
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448622916671
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1448622924003
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1448622924596
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622928621
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622930680
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622930695
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1448622931523
+error,log,,,"Internal Error",1448622931547
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1448622940653
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1448622941230
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622942088
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1448622942603

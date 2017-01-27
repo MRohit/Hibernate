@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.psl.dao.EmployeeDAO"/>
+<fullyQualifiedTypeName name="com.psl.dao.EmployeeDAOImpl"/>
+<fullyQualifiedTypeName name="com.psl.beans.Employee"/>
+<fullyQualifiedTypeName name="com.psl.client.Tester"/>
+<fullyQualifiedTypeName name="com.psl.dao.ProductDAO"/>
+<fullyQualifiedTypeName name="com.psl.dao.ProductDAOImpl"/>
+<fullyQualifiedTypeName name="com.psl.beans.Product"/>
+<fullyQualifiedTypeName name="com.psl.beans.Account"/>
+<fullyQualifiedTypeName name="com.psl.beans.Savings"/>
+<fullyQualifiedTypeName name="org.hibernate.classic.Session"/>
+<fullyQualifiedTypeName name="com.psl.beans.FourWheeler"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.psl.beans.Platinum"/>
+<fullyQualifiedTypeName name="com.psl.client.Client"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.psl.beans.TwoWheeler"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="com.psl.beans.Vehicle"/>
+<fullyQualifiedTypeName name="com.psl.utility.HibernateUtility"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.psl.beans.User"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="com.psl.beans.Customer"/>
+</qualifiedTypeNameHistroy>

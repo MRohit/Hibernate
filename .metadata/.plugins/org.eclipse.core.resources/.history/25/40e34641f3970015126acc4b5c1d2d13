@@ -1,0 +1,7 @@
+package com.psl.beans;
+
+import java.util.*;
+
+public class Chapters {
+	
+}

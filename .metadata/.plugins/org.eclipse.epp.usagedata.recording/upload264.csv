@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449035964741
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449035964804
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449035966419
+error,log,,,"Internal Error",1449035966436
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449035967449
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1449035983387
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449035987041
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449035988537
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449035989964
+error,log,,,"Internal Error",1449035990004
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1449035999111
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449036009391
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449036015907
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449036060375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449036075934
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449036079542
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449036082361
+activated,editor,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449036089359
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449036093503
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1449036095247
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1449036098091
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1449036103242
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449036110990
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1449036113068
+error,log,,,"Internal Error",1449036113086

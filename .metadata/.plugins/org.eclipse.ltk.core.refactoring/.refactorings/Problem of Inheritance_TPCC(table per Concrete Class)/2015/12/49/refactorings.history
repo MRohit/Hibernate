@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 package(s) to &apos;One-to-One/src&apos;&#x0D;&#x0A;- Original project: &apos;Problem of Inheritance_TPCC(table per Concrete Class)&apos;&#x0D;&#x0A;- Destination element: &apos;One-to-One/src&apos;&#x0D;&#x0A;- Original element: &apos;Problem of Inheritance_TPCC(table per Concrete Class)/src/com.psl.utility&apos;" description="Copy package" destination="=One-to-One/src" element1="/src&lt;com.psl.utility" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1448946766491" version="1.0"/>
+</session>
