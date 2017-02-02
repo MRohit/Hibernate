@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 2, 2015 10:47:17 AM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.User" table="USER">
+        <id name="userId" type="integer">
+            
+        </id>
+        <property name="userName" type="string">
+           
+        </property>
+        <set name="vehicle" table="VEHICLE" inverse="false" lazy="true">
+            <key>
+                <column name="USERID" />
+            </key>
+           <composite-element  class="com.psl.beans.Vehicle">
+           	<property name="vehicleId" type="integer"></property>
+           	<property name="make" type="string"></property>
+           </composite-element>
+        </set>
+    </class>
+</hibernate-mapping>

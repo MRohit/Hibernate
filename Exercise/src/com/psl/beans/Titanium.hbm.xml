@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 30, 2015 4:29:50 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <joined-subclass name="com.psl.beans.Titanium" extends="com.psl.beans.User" table="COM.PSL.BEANS.TITANIUM" lazy="false">
+        <key>
+            <column name="ID" />
+        </key>
+        <property name="type2" type="java.lang.String">
+            <column name="TYPE2" />
+        </property>
+    </joined-subclass>
+</hibernate-mapping>

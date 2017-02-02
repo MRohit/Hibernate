@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 30, 2015 3:49:13 PM by Hibernate Tools 3.3.0.GA -->
+<hibernate-mapping>
+    <class name="com.psl.beans.User" table="VEHICLE">
+        <id name="id" class="com.psl.beans.User"type="integer">
+            <column name="id" />
+            <generator class="assigned" />
+        </id>
+        <property name="vehicleNo" type="java.lang.String">
+            <column name="VEHICLENO" />
+        </property>
+        <union-subclass name="com.psl.beans.TwoWheeler" table="two">
+       	<property name="variant" type="string"></property>
+       </union-subclass> 	
+    <union-subclass name="com.psl.beans.FourWheeler" table="four">
+       	<property name="color" type="string"></property>
+       </union-subclass> 
+    </class>
+</hibernate-mapping>
