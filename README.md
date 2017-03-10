@@ -1,2 +1,2 @@
 # Hibernate
-Understanding Hibernate, populating database using POJO's and trying to learn session factory
+Back up of excercises solved while learning Hibernate.
